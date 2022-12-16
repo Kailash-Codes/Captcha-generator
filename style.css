@@ -57,6 +57,7 @@ body{
     transform: translate(-50%);
     font-weight: bold;
     font-size: 150%;
+    user-select:none;
 }
 #result{
     text-align: center;
